@@ -12,7 +12,7 @@ public class myController {
 
     @GetMapping(value="/")
     public String test(){
-        return "Hello Spring";
+        return "From My Controller";
     }
 
 

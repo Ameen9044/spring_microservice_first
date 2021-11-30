@@ -23,6 +23,4 @@ public class DemoApplication {
 		return "Hello Spring";
 	}
 
-
-
 }
