@@ -7,7 +7,7 @@ import org.mockito.internal.matchers.Equals;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class MyApplicationTests {
 
 	@Test
 	void contextLoads() {
